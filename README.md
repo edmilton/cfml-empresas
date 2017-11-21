@@ -1,2 +1,39 @@
 # cfml-empresas
 Este repositório contém uma lista de empresas que utilizam CFML (ColdFusion / Lucee) no Brasil.
+
+Inspirado em listas como esta de [Python](https://github.com/pythonbrasil/pyBusinesses-BR) e esta de [Elixir](https://github.com/elixirbrasil/empresas).
+
+Conhece alguma empresa que não está na lista? Esteja a vontade para adicionar!
+
+Gostaria de retirar sua empresa da lista? Esteja a vontade para retirar ou entre em contato que retiramos!
+
+## Norte
+
+## Nordeste
+
+## Centro-Oeste
+
+### Distrito Federal
+
+#### Brasília
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+!BRServiços | [https://brservicos.info/](https://brservicos.info/) |
+!Correios (ECT) | [http://www.correios.com.br/](http://www.correios.com.br/) |
+!Inove Soluções em TI | [http://www.inovesti.com.br/](http://www.inovesti.com.br/) |
+
+
+## Sudeste
+
+### São Paulo
+
+#### São Paulo / Grande São Paulo
+
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+!BRF | [https://www.brf-global.com/](https://www.brf-global.com/) |
+!DeltaSystems | [http://www.deltasystems.com.br/](http://www.deltasystems.com.br/) |
+!Radah Software Studio | [http://www.radah.com.br/](http://www.radah.com.br/) |
+!Senac São Paulo | [http://www.sp.senac.br/](http://www.sp.senac.br/) |
+
+## Sul
