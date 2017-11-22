@@ -38,6 +38,7 @@ DeltaSystems | [http://www.deltasystems.com.br/](http://www.deltasystems.com.br/
 Eicon | [http://www.eicon.com.br/](http://www.eicon.com.br/) |
 ENG | [http://www.eng.com.br/](http://www.eng.com.br/) |
 ER Solutions | [http://ersolution.com.br/](http://ersolution.com.br/) |
+Intuitive Software | [http://www.intuitivesoftware.com.br/](http://www.intuitivesoftware.com.br/) |
 iPDV | [https://www.ipdvonline.com.br/](https://www.ipdvonline.com.br/) |
 JBF Advocacia | [http://www.jbfadvocacia.com.br/](http://www.jbfadvocacia.com.br/) |
 Radah Software Studio | [http://www.radah.com.br/](http://www.radah.com.br/) |
