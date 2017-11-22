@@ -22,7 +22,7 @@ ANEEL | [http://www.aneel.gov.br/](http://www.aneel.gov.br/) |
 BRServiços | [https://brservicos.info/](https://brservicos.info/) |
 Caixa Seguradora | [http://www.caixaseguradora.com.br/](http://www.caixaseguradora.com.br/) |
 Conselho Federal de Medicina | [https://portal.cfm.org.br/](https://portal.cfm.org.br/) |
-Conselho Federal de Psicologia | [Conselho Federal de Psicologia](Conselho Federal de Psicologia) |
+Conselho Federal de Psicologia | [http://site.cfp.org.br/](http://site.cfp.org.br/) |
 Correios (ECT) | [http://www.correios.com.br/](http://www.correios.com.br/) |
 Inove Soluções em TI | [http://www.inovesti.com.br/](http://www.inovesti.com.br/) |
 Secretaria de Fazenda do DF | [http://www.fazenda.df.gov.br/](http://www.fazenda.df.gov.br/) |
