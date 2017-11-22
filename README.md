@@ -41,5 +41,6 @@ iPDV | [https://www.ipdvonline.com.br/](https://www.ipdvonline.com.br/) |
 JBF Advocacia | [http://www.jbfadvocacia.com.br/](http://www.jbfadvocacia.com.br/) |
 Radah Software Studio | [http://www.radah.com.br/](http://www.radah.com.br/) |
 Senac São Paulo | [http://www.sp.senac.br/](http://www.sp.senac.br/) |
+Cuattro Marketing | [http://www.cuattromkt.com.br/](http://www.cuattromkt.com.br/) |
 
 ## Sul
