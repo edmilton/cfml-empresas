@@ -9,7 +9,16 @@ Gostaria de retirar sua empresa da lista? Esteja a vontade para retirar ou entre
 
 ## Norte
 
+### Pará
+
+#### Belém
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+Universidade do Estado do Pará | [http://www.uepa.br/](http://www.uepa.br/) |
+
+
 ## Nordeste
+
 
 ## Centro-Oeste
 
@@ -25,10 +34,20 @@ Conselho Federal de Medicina | [https://portal.cfm.org.br/](https://portal.cfm.o
 Conselho Federal de Psicologia | [http://site.cfp.org.br/](http://site.cfp.org.br/) |
 Correios (ECT) | [http://www.correios.com.br/](http://www.correios.com.br/) |
 Inove Soluções em TI | [http://www.inovesti.com.br/](http://www.inovesti.com.br/) |
+Ministério do Meio Ambiente  | [http://www.mma.gov.br/](http://www.mma.gov.br/) |
+Ministério da Saúde | [http://www.saude.gov.br/](http://www.saude.gov.br/) |
 Secretaria de Fazenda do DF | [http://www.fazenda.df.gov.br/](http://www.fazenda.df.gov.br/) |
 
 
 ## Sudeste
+
+### Rio de Janeiro
+
+#### Rio de Janeiro
+
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+Prefeitura do Rio de Janeiro | [http://www.rio.rj.gov.br/](http://www.rio.rj.gov.br/) |
 
 ### São Paulo
 
@@ -37,8 +56,12 @@ Secretaria de Fazenda do DF | [http://www.fazenda.df.gov.br/](http://www.fazenda
 Empresa | Site | Contato | Vagas
 --- | --- | --- | ---
 Alatur JTB | [https://www.alaturjtb.com/](https://www.alaturjtb.com/) |
+ARPEN-SP | [http://www.arpensp.org.br/](http://www.arpensp.org.br/) |
+Atos Brasil | [https://atos.net/pt-br/brasil](https://atos.net/pt-br/brasil) |
+BRCondomínio | [http://www.brcondominio.com.br/](http://www.brcondominio.com.br/) |
 BRF | [https://www.brf-global.com/](https://www.brf-global.com/) |
 Cuattro Marketing | [http://www.cuattromkt.com.br/](http://www.cuattromkt.com.br/) |
+DCC Trânsito | [http://www.dcctransito.com.br/](http://www.dcctransito.com.br/) |
 DeltaSystems | [http://www.deltasystems.com.br/](http://www.deltasystems.com.br/) |
 Eicon | [http://www.eicon.com.br/](http://www.eicon.com.br/) |
 ENG | [http://www.eng.com.br/](http://www.eng.com.br/) |
@@ -51,6 +74,8 @@ Petrobras | [http://www.petrobras.com.br](http://www.petrobras.com.br) |
 Planetun | [https://www.planetun.com.br/](https://www.planetun.com.br/) |
 Radah Software Studio | [http://www.radah.com.br/](http://www.radah.com.br/) |
 Senac São Paulo | [http://www.sp.senac.br/](http://www.sp.senac.br/) |
+Sesc SP | [https://www.sescsp.org.br/](https://www.sescsp.org.br/) |
+Sociedade Brasileira de Coluna | [http://www.coluna.com.br](http://www.coluna.com.br) |
 
 #### São José dos Campos
 
@@ -58,7 +83,6 @@ Empresa | Site | Contato | Vagas
 --- | --- | --- | ---
 Embraer | [https://www.embraer.com/br](https://www.embraer.com/br) | 
 GSW | [https://www.gsw.com.br/](https://www.gsw.com.br/) |
-
 
 
 ## Sul
