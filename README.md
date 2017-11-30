@@ -19,6 +19,13 @@ Universidade do Estado do Pará | [http://www.uepa.br/](http://www.uepa.br/) |
 
 ## Nordeste
 
+### Bahia
+
+#### Salvador
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+IMAP | [http://www.imap.org.br/](http://www.imap.org.br/) |
+
 
 ## Centro-Oeste
 
@@ -68,14 +75,18 @@ ENG | [http://www.eng.com.br/](http://www.eng.com.br/) |
 ER Solutions | [http://ersolution.com.br/](http://ersolution.com.br/) |
 Escola 24 horas | [http://www.escola24horas.com.br/](http://www.escola24horas.com.br/) |
 Intuitive Software | [http://www.intuitivesoftware.com.br/](http://www.intuitivesoftware.com.br/) |
+Intralab | [http://www.intralab.net.br](http://www.intralab.net.br) |
 iPDV | [https://www.ipdvonline.com.br/](https://www.ipdvonline.com.br/) |
 JBF Advocacia | [http://www.jbfadvocacia.com.br/](http://www.jbfadvocacia.com.br/) |
 Petrobras | [http://www.petrobras.com.br](http://www.petrobras.com.br) |
 Planetun | [https://www.planetun.com.br/](https://www.planetun.com.br/) |
+ProcessMind | [http://www.processmind.com.br/](http://www.processmind.com.br/) |
 Radah Software Studio | [http://www.radah.com.br/](http://www.radah.com.br/) |
 Senac São Paulo | [http://www.sp.senac.br/](http://www.sp.senac.br/) |
 Sesc SP | [https://www.sescsp.org.br/](https://www.sescsp.org.br/) |
+Siscart | [https://www.siscart.com.br](https://www.siscart.com.br) |
 Sociedade Brasileira de Coluna | [http://www.coluna.com.br](http://www.coluna.com.br) |
+TAM Viagens | [https://surpreenda.tamviagens.com.br/travel/arc.cfm](https://surpreenda.tamviagens.com.br/travel/arc.cfm)|
 
 #### São José dos Campos
 
