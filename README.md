@@ -54,6 +54,8 @@ Secretaria de Fazenda do DF | [http://www.fazenda.df.gov.br/](http://www.fazenda
 
 Empresa | Site | Contato | Vagas
 --- | --- | --- | ---
+Escola 24 horas | [http://www.escola24horas.com.br/](http://www.escola24horas.com.br/) |
+Petrobras | [http://www.petrobras.com.br](http://www.petrobras.com.br) |
 Prefeitura do Rio de Janeiro | [http://www.rio.rj.gov.br/](http://www.rio.rj.gov.br/) |
 
 ### São Paulo
@@ -66,19 +68,16 @@ Alatur JTB | [https://www.alaturjtb.com/](https://www.alaturjtb.com/) |
 ARPEN-SP | [http://www.arpensp.org.br/](http://www.arpensp.org.br/) |
 Atos Brasil | [https://atos.net/pt-br/brasil](https://atos.net/pt-br/brasil) |
 BRCondomínio | [http://www.brcondominio.com.br/](http://www.brcondominio.com.br/) |
-BRF | [https://www.brf-global.com/](https://www.brf-global.com/) |
 Cuattro Marketing | [http://www.cuattromkt.com.br/](http://www.cuattromkt.com.br/) |
 DCC Trânsito | [http://www.dcctransito.com.br/](http://www.dcctransito.com.br/) |
 DeltaSystems | [http://www.deltasystems.com.br/](http://www.deltasystems.com.br/) |
 Eicon | [http://www.eicon.com.br/](http://www.eicon.com.br/) |
 ENG | [http://www.eng.com.br/](http://www.eng.com.br/) |
 ER Solutions | [http://ersolution.com.br/](http://ersolution.com.br/) |
-Escola 24 horas | [http://www.escola24horas.com.br/](http://www.escola24horas.com.br/) |
 Intuitive Software | [http://www.intuitivesoftware.com.br/](http://www.intuitivesoftware.com.br/) |
 Intralab | [http://www.intralab.net.br](http://www.intralab.net.br) |
 iPDV | [https://www.ipdvonline.com.br/](https://www.ipdvonline.com.br/) |
 JBF Advocacia | [http://www.jbfadvocacia.com.br/](http://www.jbfadvocacia.com.br/) |
-Petrobras | [http://www.petrobras.com.br](http://www.petrobras.com.br) |
 Planetun | [https://www.planetun.com.br/](https://www.planetun.com.br/) |
 ProcessMind | [http://www.processmind.com.br/](http://www.processmind.com.br/) |
 Radah Software Studio | [http://www.radah.com.br/](http://www.radah.com.br/) |
@@ -87,6 +86,7 @@ Sesc SP | [https://www.sescsp.org.br/](https://www.sescsp.org.br/) |
 Siscart | [https://www.siscart.com.br](https://www.siscart.com.br) |
 Sociedade Brasileira de Coluna | [http://www.coluna.com.br](http://www.coluna.com.br) |
 TAM Viagens | [https://surpreenda.tamviagens.com.br/travel/arc.cfm](https://surpreenda.tamviagens.com.br/travel/arc.cfm)|
+Ticket Log | [https://www.ticketlog.com.br](https://www.ticketlog.com.br) |
 
 #### São José dos Campos
 
@@ -98,9 +98,22 @@ GSW | [https://www.gsw.com.br/](https://www.gsw.com.br/) |
 
 ## Sul
 
+### Paraná
+
+#### Curitiba
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+BRF | [https://www.brf-global.com/](https://www.brf-global.com/) |
+
 ### Santa Catarina
 
 #### Balneário Camboriú
 Empresa | Site | Contato | Vagas
 --- | --- | --- | ---
 Grupo W | [http://www.grupow.com.br/](http://www.grupow.com.br/) |
+
+#### Jaraguá do Sul
+Empresa | Site | Contato | Vagas
+--- | --- | --- | ---
+GETCON | [http://www.getcon.com.br](http://www.getcon.com.br) |
+GetControl - Software Gestão Online | [http://www.getcontrol.info](http://www.getcontrol.info) |
